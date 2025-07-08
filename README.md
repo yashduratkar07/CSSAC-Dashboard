@@ -84,7 +84,7 @@ To deliver an interactive analytical tool that:
 
 ### 🖼️ Dashboard Overview
 
-![Page 1]()
+![Page 1](https://github.com/yashduratkar07/CSSAC-Dashboard/blob/main/Page%201.png)
 ![Page 2]()
 
 ---
