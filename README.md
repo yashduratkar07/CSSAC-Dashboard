@@ -6,7 +6,7 @@ A dynamic and interactive Power BI dashboard designed to explore customer demogr
 
 ## 🎯 Short Description / Purpose
 
-The **Mall Customers Support & Satisfaction Analysis Dashboard** helps businesses understand their customers better by analysing age groups, gender distribution, spending patterns, and satisfaction scores. This dashboard is intended for marketing analysts, business strategists, and mall management teams to segment customers effectively and drive data-driven decisions for targeted promotions and improved customer service.
+The **Customers Support & Satisfaction Analysis Dashboard** helps businesses understand their customers better by analysing age groups, gender distribution, spending patterns, and satisfaction scores. This dashboard is intended for marketing analysts, business strategists, and mall management teams to segment customers effectively and drive data-driven decisions for targeted promotions and improved customer service.
 
 ---
 
@@ -85,7 +85,7 @@ To deliver an interactive analytical tool that:
 ### 🖼️ Dashboard Overview
 
 ![Page 1](https://github.com/yashduratkar07/CSSAC-Dashboard/blob/main/Page%201.png)
-![Page 2]()
+![Page 2](https://github.com/yashduratkar07/CSSAC-Dashboard/blob/main/Page%202.png)
 
 ---
 
